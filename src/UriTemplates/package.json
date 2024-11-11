@@ -1,0 +1,12 @@
+{
+    "name": "com.enduvo.uritemplates",
+    "version": "1.0.0",
+    "displayName": "Unity UriTemplates",
+    "description": "DotNet UriTemplate implementation for Unity",
+    "unity": "2019.4",
+    "author": {
+      "name": "Enduvo",
+      "email": "contact@enduvo.com",
+      "url": "https://enduvo.com/"
+    }
+  }
